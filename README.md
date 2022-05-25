@@ -38,5 +38,29 @@ mv --> move a file or directory
 A relational database stores information in a structured format called a schema. This schema is defined according to the rules or database normalization. These rules are meant to ensure the integrity of the data. 
 While SQL is a query language that allows users to filter, manipulate , or update data on a database.
 
+![Excercise 1](SQL/1.png)
+
+![Excercise 2](SQL/2.png)
+
+![Excercise 3](SQL/3.png)
+
+![Excercise 4](SQL/4.png)
+
+![Excercise 5](SQL/5.png)
+
+![Excercise 6](SQL/6.png)
+
+![Excercise 13](SQL/13.png)
+
+![Excercise 14](SQL/14.png)
+
+![Excercise 15](SQL/15.png)
+
+![Excercise 16](SQL/16.png)
+
+![Excercise 17](SQL/17.png)
+
+![Excercise 18](SQL/18.png)
+
 
 
