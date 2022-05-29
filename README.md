@@ -11,56 +11,10 @@ Also maybe I can share here the following:
 ## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
 
-### Practice in the Terminal
-I've read about a several topics in this task, some of them as the following:
-**1.** The Command Line
-It's a text based window, It's working by entering the commands as a text that you need to do on your OS and the response will be also a text
-For opening the terminal: it depend on your operating system but you can type into your search area Terminal or Command line window
+1. [ Practice in the Terminal ](Practice_In_The_Terminal/README.md)
+2. [Relational Databases and SQL](SQL/README.md)
+3. [Class-01](Class-01/README.md)
 
-**2.** Basic Navigation
-Linux directory system is hierarcial based, which means it's ordered from parent to child. if we want to go to any child directory, we should first acces it's parent. I've read about three command in this article: pwd, ls, cd
-
-**4.** More About Files
-I've read some interesting specifications on linux OS, like it's a case sensitive, extensionless, and consider any repository as file.
-but for me after comparing, since I'm using a macOS it's not case sensitive and have extensions for every file
-
-**5.** Manual Pages
-I've read about some additional useful commands like: man <command> --> It'll give you all the options and the functionalities that you can use with this command. for me this is the first time I've seen this command .. Interesting 
-
-**6.** File Manipulation
-These topics are not new to me that I've read here,I took it in the preparing month:
-mkdir --> to make a new directory
-rmdir --> remove a directory
-cp --> copy a file or directory
-mv --> move a file or directory
-
-### Relational Databases and SQL
-A relational database stores information in a structured format called a schema. This schema is defined according to the rules or database normalization. These rules are meant to ensure the integrity of the data. 
-While SQL is a query language that allows users to filter, manipulate , or update data on a database.
-
-![Excercise 1](SQL/1.png)
-
-![Excercise 2](SQL/2.png)
-
-![Excercise 3](SQL/3.png)
-
-![Excercise 4](SQL/4.png)
-
-![Excercise 5](SQL/5.png)
-
-![Excercise 6](SQL/6.png)
-
-![Excercise 13](SQL/13.png)
-
-![Excercise 14](SQL/14.png)
-
-![Excercise 15](SQL/15.png)
-
-![Excercise 16](SQL/16.png)
-
-![Excercise 17](SQL/17.png)
-
-![Excercise 18](SQL/18.png)
 
 
 
