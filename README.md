@@ -14,6 +14,8 @@ Also maybe I can share here the following:
 1. [ Practice in the Terminal ](Practice_In_The_Terminal/README.md)
 2. [Relational Databases and SQL](SQL/README.md)
 3. [Class-01](Class-01/README.md)
+4. [Class-02](Class-02/README.md)
+
 
 
 
