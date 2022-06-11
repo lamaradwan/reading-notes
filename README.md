@@ -18,6 +18,8 @@ Also maybe I can share here the following:
 5. [Class-03](Class-03/README.md)
 6. [Class-04](Class-04/README.md)
 7. [Class-05](Class-05/README.md)
+6. [Class-06](Class-06/README.md)
+
 
 
 
