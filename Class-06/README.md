@@ -1,4 +1,4 @@
-# Class-04
+# Class-06
 ## I’ve reviewed the following topics:
 
 1. Random Module
