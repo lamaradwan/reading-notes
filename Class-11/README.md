@@ -1,5 +1,5 @@
 # Class-11
-## I’ve reviewed the following data structure topics:
+## I’ve reviewed the following topics:
 
 1. Numpy
 
