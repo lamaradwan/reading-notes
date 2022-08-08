@@ -34,6 +34,9 @@ Also maybe I can share here the following:
 21. [Class-27](Class-27/README.md)
 22. [Class-28](Class-28/README.md)
 23. [Class-29](Class-29/README.md)
+24. [Class-30](Class-30/README.md)
+25. [Class-31](Class-31/README.md)
+
 
 
 
